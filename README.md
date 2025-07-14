@@ -8,7 +8,7 @@ InfiniSDK
 | Supported Versions    | ![Supported Versions](https://img.shields.io/pypi/pyversions/infinisdk.svg)    |
 | Latest Version        | ![Latest Version](https://img.shields.io/pypi/v/infinisdk.svg)                  |
 
-Overview
+Overview -
 --------
 
 InfiniSDK is the official Python SDK for INFINIDAT's products.  It provides a clean interface for creating, deleting, querying and manipulating API objects.
